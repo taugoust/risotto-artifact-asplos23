@@ -15,8 +15,8 @@
 	url = https://github.com/taugoust/sqlite-bench
 [submodule "benchmarks/cas-benchmark"]
 	path = benchmarks/cas
-	url = https://github.com/rgouicem/cas-benchmark
+	url = https://github.com/taugoust/cas-benchmark.git
 [submodule "benchmarks/math-bench"]
 	path = benchmarks/math
-	url = https://github.com/rgouicem/math-bench
+	url = https://github.com/taugoust/math-bench
 
